@@ -23,9 +23,7 @@ Example 1
 
 Ouput
 
-<img src="https://user-images.githubusercontent.com/57315504/149558676-95d9c632-ac77-42a2-a062-9a587e15a076.png" width="500">
-<img src="https://user-images.githubusercontent.com/57315504/149558797-f461126f-42f3-408a-9cd6-bb59eb1cc0c6.png" width="500">
-<img src="https://user-images.githubusercontent.com/57315504/149558875-9272b2cd-712c-40a3-aa45-04698c38c97f.png" width="500">
+<img src="https://user-images.githubusercontent.com/57315504/149558676-95d9c632-ac77-42a2-a062-9a587e15a076.png" width="200"> <img src="https://user-images.githubusercontent.com/57315504/149558797-f461126f-42f3-408a-9cd6-bb59eb1cc0c6.png" width="200"> <img src="https://user-images.githubusercontent.com/57315504/149558875-9272b2cd-712c-40a3-aa45-04698c38c97f.png" width="200">
 
 
 Example 2 
