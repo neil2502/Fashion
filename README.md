@@ -12,7 +12,13 @@ Fashion Recommendation:
 
 Used resnet to extract features from dataset of Fashion Product Images Dataset which contained 44000 images.
 Using nearest neighbour algorithm was able to recommend 5 closest products to input
-![Screenshot (284)](https://user-images.githubusercontent.com/57315504/149558079-600d27f7-dd1a-470b-835d-2896dfe2d1cd.png) ![Screenshot (285)](https://user-images.githubusercontent.com/57315504/149558101-27a2ba27-0298-4da8-8f78-4fc53ad4cfd2.png) ![Screenshot (286)](https://user-images.githubusercontent.com/57315504/149558133-a8f5788c-1e34-4ba4-823b-bb050e13c77f.png) ![Screenshot (286)](https://user-images.githubusercontent.com/57315504/149558146-420bd2a2-ccbd-483f-9244-c5eac44462d4.png)
+Example 1
+Input
+![Screenshot (292)](https://user-images.githubusercontent.com/57315504/149558559-d4f87126-293a-4879-bafb-db1a8e028c2e.png)
+Output
+![Screenshot (293)](https://user-images.githubusercontent.com/57315504/149558676-95d9c632-ac77-42a2-a062-9a587e15a076.png)
+![Screenshot (294)](https://user-images.githubusercontent.com/57315504/149558797-f461126f-42f3-408a-9cd6-bb59eb1cc0c6.png)
+![Screenshot (295)](https://user-images.githubusercontent.com/57315504/149558875-9272b2cd-712c-40a3-aa45-04698c38c97f.png)
 
 
 
