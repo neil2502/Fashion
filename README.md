@@ -18,4 +18,8 @@ Fahion Segementation:
 Used a Unet masking on clothes co parsing dataset
 
 ![image](https://user-images.githubusercontent.com/57315504/149556878-6f7907a0-5389-49b9-ac18-7c59292ba4bb.png)
+![image](https://user-images.githubusercontent.com/57315504/149556947-176dfaac-e8e8-49b2-9316-6a14e1d26fae.png)
+![image](https://user-images.githubusercontent.com/57315504/149556923-ddb153db-df62-4b9d-ac17-0fbb589d1982.png)
+![image](https://user-images.githubusercontent.com/57315504/149556989-6b477cbd-aad9-4616-a718-86a19375423a.png)
+
 
