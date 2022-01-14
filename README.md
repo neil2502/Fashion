@@ -8,7 +8,8 @@ Logistic Regression,RandomForestClassifier,3-Layer Neural Network,CNN
 Compared accuracy of each of each of the and finally predicted the products for some random images using best predictor giving 89% outcome
 
 
-<img src="https://user-images.githubusercontent.com/57315504/149571203-fda7f1ba-959a-46ff-9f47-66a2057e9cb2.png" width="100">
+<img src="https://user-images.githubusercontent.com/57315504/149571203-fda7f1ba-959a-46ff-9f47-66a2057e9cb2.png" width="500">
+
 ![Screenshot (275)](https://user-images.githubusercontent.com/57315504/149556556-5fd549ff-14ba-40b2-a74e-bd08e57983c0.png)
 
 Fashion Recommendation:
