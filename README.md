@@ -12,3 +12,8 @@ Fashion Recommendation:
 
 Used resnet to extract features from dataset of Fashion Product Images Dataset which contained 44000 images.
 Using nearest neighbour algorithm was able to recommend 5 closet productsto input
+
+Fahion Segementation:
+
+Used a Unet masking on clothes co parsing dataset
+![image](https://user-images.githubusercontent.com/57315504/149556783-5b5def74-aa48-4bbc-b6f7-edcfc3336e26.png)
