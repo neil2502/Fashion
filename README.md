@@ -32,9 +32,7 @@ Example 2
 
 Output
 
-<img src="https://user-images.githubusercontent.com/57315504/149559583-a0cd6948-57ca-47c5-9e59-e5280d012740.png" width="200">
-<img src="https://user-images.githubusercontent.com/57315504/149559704-dfa7a3cd-0b52-4167-9e26-c4fbf9ce0370.png" width="200">
-<img src="https://user-images.githubusercontent.com/57315504/149559802-77dc24d1-31e0-4cc7-9245-ff992026f356.png" width="200">
+<img src="https://user-images.githubusercontent.com/57315504/149559583-a0cd6948-57ca-47c5-9e59-e5280d012740.png" width="200"> <img src="https://user-images.githubusercontent.com/57315504/149559704-dfa7a3cd-0b52-4167-9e26-c4fbf9ce0370.png" width="200"> <img src="https://user-images.githubusercontent.com/57315504/149559802-77dc24d1-31e0-4cc7-9245-ff992026f356.png" width="200">
 
 
 
