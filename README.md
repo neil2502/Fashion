@@ -19,7 +19,7 @@ Using nearest neighbour algorithm was able to recommend 5 closest products to in
 
 Example 1
 
-<img src="https://user-images.githubusercontent.com/57315504/149559263-006add92-0343-4f48-85e7-994db0718c8a.png" width="500">
+<img src="https://user-images.githubusercontent.com/57315504/149559263-006add92-0343-4f48-85e7-994db0718c8a.png" width="200">
 
 Ouput
 
@@ -28,13 +28,13 @@ Ouput
 
 Example 2 
 
-![Screenshot (302)](https://user-images.githubusercontent.com/57315504/149559513-2cf48afc-b1aa-4906-8657-4f59aee59687.png)
+<img src="https://user-images.githubusercontent.com/57315504/149559513-2cf48afc-b1aa-4906-8657-4f59aee59687.png" width="200">
 
 Output
 
-![Screenshot (303)](https://user-images.githubusercontent.com/57315504/149559583-a0cd6948-57ca-47c5-9e59-e5280d012740.png)
-![Screenshot (304)](https://user-images.githubusercontent.com/57315504/149559704-dfa7a3cd-0b52-4167-9e26-c4fbf9ce0370.png)
-![Screenshot (305)](https://user-images.githubusercontent.com/57315504/149559802-77dc24d1-31e0-4cc7-9245-ff992026f356.png)
+<img src="https://user-images.githubusercontent.com/57315504/149559583-a0cd6948-57ca-47c5-9e59-e5280d012740.png" width="200">
+<img src="https://user-images.githubusercontent.com/57315504/149559704-dfa7a3cd-0b52-4167-9e26-c4fbf9ce0370.png" width="200">
+<img src="https://user-images.githubusercontent.com/57315504/149559802-77dc24d1-31e0-4cc7-9245-ff992026f356.png" width="200">
 
 
 
