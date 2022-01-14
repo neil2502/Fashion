@@ -15,6 +15,7 @@ Using nearest neighbour algorithm was able to recommend 5 closest products to in
 Example 1
 Input
 ![Screenshot (292)](https://user-images.githubusercontent.com/57315504/149558559-d4f87126-293a-4879-bafb-db1a8e028c2e.png)
+
 Output
 ![Screenshot (293)](https://user-images.githubusercontent.com/57315504/149558676-95d9c632-ac77-42a2-a062-9a587e15a076.png)
 ![Screenshot (294)](https://user-images.githubusercontent.com/57315504/149558797-f461126f-42f3-408a-9cd6-bb59eb1cc0c6.png)
