@@ -19,13 +19,14 @@ Using nearest neighbour algorithm was able to recommend 5 closest products to in
 
 Example 1
 
-![Screenshot (296)](https://user-images.githubusercontent.com/57315504/149559263-006add92-0343-4f48-85e7-994db0718c8a.png)
+<img src="https://user-images.githubusercontent.com/57315504/149559263-006add92-0343-4f48-85e7-994db0718c8a.png" width="500">
 
 Ouput
 
-![Screenshot (293)](https://user-images.githubusercontent.com/57315504/149558676-95d9c632-ac77-42a2-a062-9a587e15a076.png)
-![Screenshot (294)](https://user-images.githubusercontent.com/57315504/149558797-f461126f-42f3-408a-9cd6-bb59eb1cc0c6.png)
-![Screenshot (295)](https://user-images.githubusercontent.com/57315504/149558875-9272b2cd-712c-40a3-aa45-04698c38c97f.png)
+<img src="https://user-images.githubusercontent.com/57315504/149558676-95d9c632-ac77-42a2-a062-9a587e15a076.png" width="500">
+<img src="https://user-images.githubusercontent.com/57315504/149558797-f461126f-42f3-408a-9cd6-bb59eb1cc0c6.png" width="500">
+<img src="https://user-images.githubusercontent.com/57315504/149558875-9272b2cd-712c-40a3-aa45-04698c38c97f.png" width="500">
+
 
 Example 2 
 
