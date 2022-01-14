@@ -11,7 +11,10 @@ Compared accuracy of each of each of the and finally predicted the products for 
 Fashion Recommendation:
 
 Used resnet to extract features from dataset of Fashion Product Images Dataset which contained 44000 images.
-Using nearest neighbour algorithm was able to recommend 5 closet productsto input
+Using nearest neighbour algorithm was able to recommend 5 closest products to input
+![image](https://user-images.githubusercontent.com/57315504/149557996-af5fbf43-a609-4ce1-aabb-34a3ce2a5df4.png) ![image](https://user-images.githubusercontent.com/57315504/149558006-fda3f098-8b68-4c22-996c-53b8c40070b9.png) ![image](https://user-images.githubusercontent.com/57315504/149558014-9375f592-ef05-4a12-88c1-9233de520157.png)
+
+
 
 Fahion Segementation:
 
