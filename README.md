@@ -10,7 +10,7 @@ Compared accuracy of each of each of the and finally predicted the products for 
 
 <img src="https://user-images.githubusercontent.com/57315504/149571203-fda7f1ba-959a-46ff-9f47-66a2057e9cb2.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/57315504/149556556-5fd549ff-14ba-40b2-a74e-bd08e57983c0.png" width="500">
+<img src="https://user-images.githubusercontent.com/57315504/149556556-5fd549ff-14ba-40b2-a74e-bd08e57983c0.png" width="1000">
 
 Fashion Recommendation:
 
