@@ -16,4 +16,6 @@ Using nearest neighbour algorithm was able to recommend 5 closet productsto inpu
 Fahion Segementation:
 
 Used a Unet masking on clothes co parsing dataset
-![image](https://user-images.githubusercontent.com/57315504/149556783-5b5def74-aa48-4bbc-b6f7-edcfc3336e26.png)
+
+![image](https://user-images.githubusercontent.com/57315504/149556878-6f7907a0-5389-49b9-ac18-7c59292ba4bb.png)
+
