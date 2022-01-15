@@ -39,10 +39,9 @@ Output
 
 
 
+Fashion Segmentation:
 
-Fahion Segementation:
-
-Used a Unet masking on clothes co parsing dataset
+From Clothes Co-Parsing dataset got the images and masks and then trained Unet algorithm for segmentation of images.
 
 ![image](https://user-images.githubusercontent.com/57315504/149556878-6f7907a0-5389-49b9-ac18-7c59292ba4bb.png)
 ![image](https://user-images.githubusercontent.com/57315504/149556947-176dfaac-e8e8-49b2-9316-6a14e1d26fae.png)
